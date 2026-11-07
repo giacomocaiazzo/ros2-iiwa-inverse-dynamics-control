@@ -1,9 +1,9 @@
-Repository for Homework 2 of Robotics Labs course made by Marco Bartone P38000237, Giacomo Caiazzo P38000236, Matteo De Simone P38000232, Nicola Monetti P38000238.
+# ROS 2 IIWA Position and Inverse Dynamics Control
 
-## Robotics Lab - Homework 2
+**Contributors:** Marco Bartone, Giacomo Caiazzo, Matteo De Simone and Nicola Monetti.
 
 ### Overview
-This is a report of the Homework 2 of Robotics Lab course. The repository contains the steps to download the folders from github and to run the launch file for the simulations of the manipulator robot with the position controller, the joint space inverse dynamic torque controller and the operational space inverse dynamics torque controller.
+A ROS 2 workspace for simulating an iiwa manipulator with position control and inverse-dynamics torque control. The project explores joint-space and operational-space controllers using Gazebo and KDL.
 
 ### Usage
 
