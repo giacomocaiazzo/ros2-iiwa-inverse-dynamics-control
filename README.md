@@ -9,7 +9,8 @@ A ROS 2 workspace for simulating an iiwa manipulator with position control and i
 
 Open the terminal, open the container and enter into the directory where you want to download the folder, then download it with:
 
-      $ git clone https://github.com/giacomocaiazzo/Giacomo_Caiazzo_Homework2.git
+      $ git clone https://github.com/giacomocaiazzo/ros2-iiwa-inverse-dynamics-control.git
+      $ cd ros2-iiwa-inverse-dynamics-control
 
 -------------------------------
 
@@ -18,7 +19,7 @@ To build the packages, access the ROS2 workspace and build them with:
 
       $ colcon build
 
-Atfer this, use the source command:
+After this, use the source command:
 
       $ source install/setup.bash
 
